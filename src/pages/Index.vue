@@ -9,7 +9,7 @@
 			<div class="w-full lg:w-2/4 p-20">
 				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">Before you quit, Pray.</h2>
 				<p class="mb-8">It's frustrating to ask people around you for answers they don't have. It's even more frustrating to finally get enough strength to pray and not know what say.</p>
-				<p class="mb-8">Men need information to fuel their prayers. Without it we're destroyed for our lack of knowledge. I believe that when "we don't know what to pray for" we don't pray. When we don't pray we making quitting an attractive option. What would your prayers to God look like if you finally had the answers you've been looking for?</p>
+				<p class="mb-8">Men need information to fuel their prayers. Without it we're destroyed for our lack of knowledge. I believe that when "we don't know what to pray for" we don't pray. When we don't pray we make quitting an attractive option. What would your prayers to God look like if you finally had the answers you've been looking for?</p>
 				<p class="mb-8">Could you actually get closer to God if someone taught you about your mind, money and faith? Of course! This isn't about attending a church building. Men Pray is a reminder to choose prayer over quitting and the tools you need to finally succeed.</p>
 			</div>
 			
