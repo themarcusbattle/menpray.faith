@@ -18,8 +18,8 @@
 			<div class="lg:w-2/4 mx-auto block">
 				<h2 class="text-3xl font-extrabold text-gray uppercase mb-10">Registration is FREE</h2>
 				<p class="mb-8">Men Pray.&trade; is a monthly life skills men's conference hosted by <a href="https://www.facebook.com/marcusdbattle">Marcus Battle</a>. It's purpose is to help men who are looking for direction in life to find it in Jesus Christ and learn how to ask for his help, every day.</p>
-				<p class="mb-8">The first conference will take place in Greensboro, NC on Saturday, December 7th, 2019 from Noon to 2PM at an undisclosed location. <span class="bg-yellow-400 text-black">The conference is FREE but registration is required.</span> Location will be provided to attendees after registration. (Hint: It's not at church)</p>
-				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/bWzboTZvc2dnHhXe8">Register Now</a>
+				<p class="mb-8">The conference will take place in Greensboro, NC on Saturday, March 14th, 2020 from Noon to 2PM at an undisclosed location. <span class="bg-yellow-400 text-black">The conference is FREE but registration is required.</span> Location will be provided to attendees after registration. (Hint: It's not at church)</p>
+				<a class="bg-yellow-400 hover:bg-black hover:text-white text-black px-10 py-3 inline-block mx-auto cursor-pointer" href="https://forms.gle/iYtRXqzMQtbqEb1j7">Register Now</a>
 			</div>
 		</div>
 		<div id="footer" class="p-20 bg-black text-gray-400 text-center">
@@ -39,10 +39,10 @@ export default {
 
 <style>
 	#hero {
-		background-image: url(~@/assets/images/men-pray-hero-dec-2019.jpg);
+		background-image: url(~@/assets/images/men-pray-hero-march-2020.jpg);
 	}
 	#hero-mobile {
-		background-image: url(~@/assets/images/men-pray-hero-dec-2019-mobile.jpg);
+		background-image: url(~@/assets/images/men-pray-hero-march-2020-mobile.jpg);
 	}
 	#marcus-battle {
 		background-image: url(~@/assets/images/marcus-battle-headshot.jpg);
